@@ -10,23 +10,76 @@ I am a 4th-year B.Sc. student in Electrical Engineering & Computer Science at Te
 
 ## 🚀 Featured Projects
 
-- **Dynamic Speaker Separation** (2025)  
-  *Real-time DSP & ML Algorithms*  
-  Currently designing and developing a real-time system for speaker separation based on recent research.
-  Focusing on concurrency programming, latest approximation algorithms and other creative optimizations.
-
-- [**Sales Bot – WhatsApp Automation HTTP Server**](https://github.com/Koren-Ben-Ezra/SalesBot-Doc) (2025)  
-  *Python, Selenium, REST API*  
-  Built an automated system for scheduled advertising in WhatsApp groups with remote management, dynamic message control, and user-friendly web interface hosted on Hugging Face.
-
-- [**Vacuum Cleaning Simulator & Smart Algorithm**](https://github.com/Koren-Ben-Ezra/Smart-Vacuum-Cleaning-Sim) (2024)  
-  *C++, Python, CMake*  
-  Developed a simulator and a unique cleaning algorithm.  Wrote unit testing with Gtest and created a user-friendly visualization in Pygame.
-
-- [**Simple MIPS Processor Implementation**](https://github.com/Koren-Ben-Ezra/Simple-Processor-Simulator) (2024)  
-  *C Programming*  
-  Simulated a custom MIPS processor procedure.
-  
-- **Implementation of ML Algorithms** (2023)  
-  *C Programming*  
-  Implemented the unsupervised clustering ML algorithms [K-means](https://github.com/Koren-Ben-Ezra/kmeans-algorithm) and [symNMF](https://github.com/Koren-Ben-Ezra/symNMF-algorithm).
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>Dynamic Speaker Separation (2025)</h4>
+      <p><em>Real-time DSP &amp; ML Algorithms</em></p>
+      <p>
+        Currently designing and developing a real-time system for speaker separation based on recent research.
+        Focusing on concurrency programming, latest approximation algorithms and other creative optimizations.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="![GLOSS](https://github.com/user-attachments/assets/51717a40-d59f-4684-bda3-57af1d9f2894)
+" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>
+        <a href="https://github.com/Koren-Ben-Ezra/SalesBot-Doc">Sales Bot – WhatsApp Automation HTTP Server</a> (2025)
+      </h4>
+      <p><em>Python, Selenium, REST API</em></p>
+      <p>
+        Built an automated system for scheduled advertising in WhatsApp groups with remote management, dynamic message control, and user-friendly web interface hosted on Hugging Face.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/user-attachments/assets/289548da-7852-4fe5-98b3-311e7576076b" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>
+        <a href="https://github.com/Koren-Ben-Ezra/Smart-Vacuum-Cleaning-Sim">Vacuum Cleaning Simulator &amp; Smart Algorithm</a> (2024)
+      </h4>
+      <p><em>C++, Python, CMake</em></p>
+      <p>
+        Developed a simulator and a unique cleaning algorithm. Wrote unit testing with Gtest and created a user-friendly visualization in Pygame.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/user-attachments/assets/72f4e994-b8d8-4f7c-be33-c9343df4d8f0" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>
+        <a href="https://github.com/Koren-Ben-Ezra/Simple-Processor-Simulator">Simple MIPS Processor Implementation</a> (2024)
+      </h4>
+      <p><em>C Programming</em></p>
+      <p>
+        Simulated a custom MIPS processor procedure.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/user-attachments/assets/7671525b-0679-4655-bb8f-f98adb303946" height="200">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>Implementation of ML Algorithms (2023)</h4>
+      <p><em>C Programming</em></p>
+      <p>
+        Implemented the unsupervised clustering ML algorithms 
+        <a href="https://github.com/Koren-Ben-Ezra/kmeans-algorithm">K-means</a> and 
+        <a href="https://github.com/Koren-Ben-Ezra/symNMF-algorithm">symNMF</a>.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="![image](https://github.com/user-attachments/assets/2c29bfe8-87fc-493c-9151-5914fbda15bc)
+" width="300">
+    </td>
+  </tr>
+</table>
