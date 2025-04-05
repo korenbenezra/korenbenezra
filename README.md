@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Koren Ben Ezra
 
-I'm a 4th-year Electrical Engineering & Computer Science student at Tel Aviv University with a passion for low-level programming, algorithm development, and advanced communications systems. I thrive on transforming complex challenges into clean, efficient, and innovative solutions by combining deep learning, signal processing, and robust software engineering.
+I am a 4th-year B.Sc. student in Electrical Engineering & Computer Science at Tel-Aviv University. I am passionate about low-level programming algorithm development, communications systems and signal processing. My expertise in Python and C/C++ grounded in solid OOP programming principles, clean, efficient and maintainable code.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koren-Ben-Ezra&layout=compact&theme=tokyonight)  
 
