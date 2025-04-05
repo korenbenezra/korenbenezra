@@ -35,7 +35,7 @@ I am a 4th-year B.Sc. student in Electrical Engineering & Computer Science at Te
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="https://github.com/user-attachments/assets/289548da-7852-4fe5-98b3-311e7576076b" width="300">
+      <img src="https://github.com/user-attachments/assets/339f4cb9-f722-40d8-b832-b1a232e8b71e" width="300">
     </td>
   </tr>
   <tr>
