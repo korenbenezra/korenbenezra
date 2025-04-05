@@ -21,8 +21,7 @@ I am a 4th-year B.Sc. student in Electrical Engineering & Computer Science at Te
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="![GLOSS](https://github.com/user-attachments/assets/51717a40-d59f-4684-bda3-57af1d9f2894)
-" width="300">
+      <img src="https://github.com/user-attachments/assets/51717a40-d59f-4684-bda3-57af1d9f2894" width="300">
     </td>
   </tr>
   <tr>
@@ -62,10 +61,15 @@ I am a 4th-year B.Sc. student in Electrical Engineering & Computer Science at Te
       <p>
         Simulated a custom MIPS processor procedure.
       </p>
+      <p>
+        Result: A white circle on a black background, rendered by a custom assembly program on our simulated RISC processor in a 256×256 monochrome display.      
+      </p>
     </td>
-    <td valign="top" width="30%">
-      <img src="https://github.com/user-attachments/assets/7671525b-0679-4655-bb8f-f98adb303946" height="200">
-    </td>
+      <td valign="top" width="30%">
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/7671525b-0679-4655-bb8f-f98adb303946" height="200">
+        </p>
+      </td>
   </tr>
   <tr>
     <td valign="top" width="70%">
@@ -78,8 +82,7 @@ I am a 4th-year B.Sc. student in Electrical Engineering & Computer Science at Te
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="![image](https://github.com/user-attachments/assets/2c29bfe8-87fc-493c-9151-5914fbda15bc)
-" width="300">
+      <img src="https://github.com/user-attachments/assets/37f4c91e-fe08-4d90-a080-4c9381108e0a" width="300">
     </td>
   </tr>
 </table>
