@@ -26,7 +26,7 @@ I am a 4th-year B.Sc. student in Electrical Engineering & Computer Science at Te
   </tr>
   <tr>
     <td valign="top" width="70%">
-      <h4>
+      <h4> 
         <a href="https://github.com/Koren-Ben-Ezra/SalesBot-Doc">Sales Bot – WhatsApp Automation HTTP Server</a> (2025)
       </h4>
       <p><em>Python, Selenium, REST API</em></p>
@@ -35,7 +35,7 @@ I am a 4th-year B.Sc. student in Electrical Engineering & Computer Science at Te
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="https://github.com/user-attachments/assets/339f4cb9-f722-40d8-b832-b1a232e8b71e" width="300">
+      <img src="https://github.com/user-attachments/assets/05ab27ff-a499-4860-8a83-8bd617f190ce" width="300">
     </td>
   </tr>
   <tr>
